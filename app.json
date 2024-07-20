@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mensajeria-firebase",
-    "slug": "mensajeria-firebase",
+    "name": "MiniStore",
+    "slug": "MiniStore",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
